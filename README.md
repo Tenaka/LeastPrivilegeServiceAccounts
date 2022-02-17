@@ -1,6 +1,4 @@
-# SecureServiceAccounts
-
-Secure Local Service Accounts
+Run local Local Service accounts without System
 
 Update Windows Services to Use Least Privilege Accounts
 
